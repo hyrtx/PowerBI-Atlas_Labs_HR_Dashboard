@@ -1,6 +1,6 @@
 # Atlas Labs HR Dashboard in Power BI
 
-[You can access the report here](https://app.powerbi.com/view?r=eyJrIjoiNGI0YTJhODgtNThmNy00ZDE1LWJhYzMtYzNlZjIyZDQyOWU3IiwidCI6IjBiNzVlNDI4LThmNTItNDc3Ny1hOWNmLTVkYzlhNDU3NjhlMyJ9)
+[You can access the report here](https://app.powerbi.com/view?r=eyJrIjoiNGI0YTJhODgtNThmNy00ZDE1LWJhYzMtYzNlZjIyZDQyOWU3IiwidCI6IjBiNzVlNDI4LThmNTItNDc3Ny1hOWNmLTVkYzlhNDU3NjhlMyJ9&pageName=ReportSection84d89c81548e89c307eb)
 
 ## Project Overview
 We will be exploring a dataset for a fictional software company called Atlas Labs.
