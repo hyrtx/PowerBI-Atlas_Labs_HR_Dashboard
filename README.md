@@ -1,5 +1,6 @@
 # Atlas Labs HR Dashboard in Power BI
-We will be exploring a dataset for a fictional software company called Atlas Labs.
+
+[You can access the report here](https://app.powerbi.com/view?r=eyJrIjoiNGI0YTJhODgtNThmNy00ZDE1LWJhYzMtYzNlZjIyZDQyOWU3IiwidCI6IjBiNzVlNDI4LThmNTItNDc3Ny1hOWNmLTVkYzlhNDU3NjhlMyJ9)
 
 ## Project Overview
 We will be exploring a dataset for a fictional software company called Atlas Labs.
@@ -21,7 +22,7 @@ The data was cleaned and transformed using Power Query Editor. The following ste
 - Created a full name column by concatenating the first name and last name columns
 
 ### Creating a dedicated date table
-As a common practice, a dedicated date table was created in DAX to enable date intelligence. The use of a dedicated date table in DAX is a best practice that enables the creation of time-based calculations and analysis in Power BI, making it an essential step in the data preparation process. Here is the DAX code used to create the DimTable.
+As a common practice, a dedicated date table was created in DAX to enable date intelligence. The use of a dedicated date table in DAX is a best practice that enables the creation of time-based calculations and analysis in Power BI, making it an essential step in the data preparation process.The DAX code used to create the DimTable can be found in this repository.
 
 ### Modelling the data
 After that, the connections between the tables were established to prepare the data for the Power BI model.
@@ -43,7 +44,7 @@ By establishing these table connections, the data is properly structured and lin
 ### Creating the measures
 In total, sixteen measures were made to create the dashboard:
 
-The DAX code for each measure can be found in this link.
+The DAX code for each measure can be found in the Atlas Labs HR Dashboard - DAX Snippets file in this repository.
 
 ## Dashboard Overview
 The dashboard consists of four pages, each focusing on a different aspect of HR analysis. The pages are:
